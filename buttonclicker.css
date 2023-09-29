@@ -1,0 +1,136 @@
+*{padding: 0;
+margin: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.header{
+    background-color:#c2c2c2 ;
+    margin-left:  10%;
+    padding: 20px;
+    width: 79%;
+}
+h1{
+    color: black;
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
+.contheader{
+    width: 66%;
+    display: inline-block;
+   vertical-align: top;
+
+  
+ 
+}
+.contheader > input{
+    background-color: white;
+    border:  2px solid black;
+    width: 250px;
+    padding: 5px;
+    margin-left: 20px;
+ 
+  
+
+}
+.buttonheader{
+    background-color: rgb(30, 90, 240);
+    color: white;
+    padding: 3px;
+    width: 100px;
+    border: 2px solid black;
+    box-shadow: 3px 5px  black;
+    margin-left: 15%;
+    margin-top: 5px;
+ 
+}
+.container{
+    width: 83%;
+    margin-left: 10%;
+    display: flex;
+    /* margin: 2px;
+    padding: 20px; */
+}
+.contleft{
+ 
+    width: 60%;
+    /* background-color: blueviolet; */
+  
+  
+}
+.conright{
+    width: 40%;
+   
+    /* background-color: aqua; */
+}
+.meaningbox{
+    display: flex;
+    background-color: white;
+    border:  2px solid black;
+    margin: 30px 55px 30px 0px ; 
+    align-items: center;
+    padding: 20px;
+   
+}
+
+.word{
+     width: 30%;
+    
+    
+}
+
+.first{
+    font-size: 40px;
+}
+.second{
+    font-size: 20px;
+ 
+    margin-left: 15px;
+}
+.buttonmeaning{
+    background-color: #f6d470;
+    color: aliceblue;
+    padding: 3px;
+    width: 85px;
+    border: 2px solid black;
+    box-shadow: 3px 5px  black;
+    margin-top: 20px;
+ 
+}
+.meaning{
+    width: 70%;
+    text-align: start;
+}
+
+.defbyyou{
+   
+    background-color: white;
+    border:  2px solid black;
+     margin-top: 30px;
+     margin-left: 30px; 
+   /* text-align: center; */
+    padding: 20px;
+    width: 240px;
+    height: 110px;
+
+   
+}
+.third{
+    font-size: 20px;
+}
+
+.forth{
+    font-size: 25px;
+    font-style: bold;
+}
+.buttonyou{
+    background-color: #92c47d;
+    color: black;
+    padding: 5px;
+    width: 250px;
+    border: 2px solid black;
+    box-shadow: 3px 5px  black;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 17px;
+
+}
